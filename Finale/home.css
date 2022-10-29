@@ -1,0 +1,164 @@
+
+#main1 #content
+{
+	padding-left:25px;
+}
+.single
+{
+	width:290px;
+}
+@media(max-width:768px)
+{
+	.single
+	{
+		width:60%;
+		margin: 0 auto;
+	}
+}
+#main1 #content .product
+{
+	background:hsla(191,86%,78%,1.00);
+	border: solid 1px;
+	margin-bottom:30px;
+	box-sizing:border-box;
+	
+}
+#main1 #content .product .text p.price
+{
+	font-size:18px;
+	text-align:center;
+	font-weight:400;
+}
+#main1 #content .product .text
+{
+	padding: 10px 10px 0px;
+}
+#main1 #content .product .text .button
+{
+	text-align:center;
+	clear:both;
+}
+#main1 #content .product .text .button .btn
+{
+	margin-bottom:10px;
+}
+#main1 #content .product .text h3
+{
+	text-align:center;
+	font-size:20px;
+}
+#main1 #content .product .text h3 a
+{
+	color:darkslategray;
+}
+
+.bg{
+	background-color: teal;
+	min-height: 200;
+}
+h1{
+	color: cadetblue;
+	text-align: center;
+	align-content: center;
+	font-style: italic;
+	font-family:allura;
+}
+
+.inf{
+	padding-left: 250px; 
+	padding-right: 250px;
+}
+.logo{
+	border-radius: 40%;
+}
+.bg{
+	background:none;
+}
+h1{
+	font-style: italic;
+	color: black;
+	font-family: bookman;
+	font-size: 6;
+}
+.nav-item{
+	margin-top: 0;
+	background:none;
+	font-size: 20px;
+	text-decoration: none;
+	
+	
+}
+.nav1 ul li{
+	display: none;
+		
+		
+}
+
+li:hover .nav1 ul li{
+	display: block;
+				
+}
+
+form-inline{
+	margin-right: 160px;
+}.navbar h1{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: center;
+	font-size: 7vw;
+}
+#content .product{
+	margin: 0 0 30px;
+	border: solid 1px #0E0E0D;
+	box-sizing: border-box;
+	padding: 20px;
+	box-shadow: 0px 2px 5px rgba(0, 0, 0, .3);
+	background: hsla(0,0%,31%,1.00);
+}
+.breadcrumb{
+	padding: 0 0 30px;
+	margin-bottom: 20px;
+	background: hsla(0,0%,23%,1.00);
+	border-radius: 5px;
+	box-shadow: 0px 1px 5px rgba(0, 0, 0, .5);
+}
+.breadcrumb> li + li:before{
+	content: ">\00a0";
+	color: #cccccc;
+}
+@media(max-width:991px){
+	.breadcrumb{
+		padding: 8px 0px;
+		text-align: center;
+	}
+}
+
+.navbar-collapse .right
+{
+	float:right;
+}
+.box1
+{
+	background:#ffffff;
+	margin: 0 0 30px;
+	border:solid 1px #e6e6e6;
+	box-sizing:border-box;
+	padding:20px;
+	box-shadow:0px 2px 5px rgba(0, 0, 0, .3);
+}
+.box1 .btn
+{
+	float:right;
+}
+
+#cart .table body1 tr td img
+{
+	width:400px;
+}
+.form0{
+ left: 10%;
+}
+
+
+
+
+
